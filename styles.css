@@ -34,3 +34,9 @@ p {
   padding-bottom: 20px;
   font-size: 25px;
 }
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
